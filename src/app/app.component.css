@@ -1,0 +1,17 @@
+div{
+    width: 600px;
+    padding: 20px;
+    padding-top: 0;
+    border: 2px solid rgb(77, 77, 77);
+    border-radius: 20px;
+    background-color: rgb(248, 248, 248);
+    color: rgb(77, 77, 77);
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: large;
+}
